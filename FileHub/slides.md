@@ -145,3 +145,5 @@ Ecco i costi che comporta questo investimento
 
 Costo iniziale dell'installazione del server, esso dipende dalle prestazioni scelte e dalla locazione dell'immobile.
 Costo secondario, una quota mensile per l'utilizzo del servizio.
+
+Con questo sistema i tuoi dipendenti saranno più veloci, meno stressati ed efficienti nel lavoro, ciò migliorerà la loro condizione di lavoro.
