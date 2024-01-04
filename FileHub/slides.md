@@ -83,6 +83,7 @@ Archiviando i file in cartelle avrai a disposizione numerose opzioni su di essi 
 - visualzzazione di alcuni file online senza doverli necessariamente scaricare
 - archiviazione dei file nel cestino
 - inserimento note relative al file
+- scaricare QrCode per risalire facilmente al file ovunque
 
 ---
 ---
@@ -131,9 +132,10 @@ La nostra offerta rispetto ad un cloud tradizionale
 Ecco cosa ti offriamo noi di FileHub rispetto ad un cloud tradizionale:
 - velocità e immeditezza nella reperibilità dei file
 - efficienza e flessibilità nella gestione di file e cartelle
+- facilità e immediatezza nel ritrovare file tramite QrCode
 - gestione delle utenze e permessi utente
 - possibilità di archiviare grandi file
-- installazione di un server locale (più veloce)
+- installazione di un server dedicato
 
 Grazie a queste soluzioni i tuoi collaboratori saranno molto più agevolati a lavorare ed a gestire il proprio lavoro quitidiano.
 
